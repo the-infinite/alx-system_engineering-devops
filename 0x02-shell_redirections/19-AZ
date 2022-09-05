@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $ARGS | tr AZ ce
+cat | tr AZ ce
