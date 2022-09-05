@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $ARGS | sort -u
+cat > xxdatax.txt && cat xxdatax.txt | sort -u
